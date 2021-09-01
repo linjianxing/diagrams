@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T08:15:58.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="0c7zq5BCbrSYaXa4yjSU" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T02:27:31.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="ro84M1_hwsgKf1QNcntA" version="14.9.9" type="github">
   <diagram id="JrnqUwHhGGC6w4v_QgO1" name="Page-1">
-    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oeIwhElIJajcfcrf5PPU-3" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;verticalAlign=top;align=left;spacingLeft=30;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="660" height="590" as="geometry" />
-        </mxCell>
         <mxCell id="oeIwhElIJajcfcrf5PPU-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="149.14" width="830" height="640.86" as="geometry" />
+          <mxGeometry x="10" y="220" width="1050" height="650" as="geometry" />
         </mxCell>
         <mxCell id="oeIwhElIJajcfcrf5PPU-13" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#666666;fillColor=#f5f5f5;verticalAlign=top;align=left;spacingLeft=30;fontColor=#333333;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="238" width="660" height="552" as="geometry" />
+          <mxGeometry x="70" y="270" width="660" height="552" as="geometry" />
         </mxCell>
         <mxCell id="oeIwhElIJajcfcrf5PPU-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b46504;fillColor=#fad7ac;" edge="1" parent="1" source="oeIwhElIJajcfcrf5PPU-52" target="oeIwhElIJajcfcrf5PPU-10">
           <mxGeometry relative="1" as="geometry" />
