@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T02:35:34.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VT5aokmP3BvaJMTgHe4K" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T02:39:12.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="khFTsISGm4p8rnRO0z99" version="15.3.5" type="github">
   <diagram id="7RT401AvMfwxMbxt2eSY" name="Page-1">
     <mxGraphModel dx="946" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="640" width="680" height="280" as="geometry" />
         </mxCell>
         <mxCell id="qfTTODT_Ezw1zGYLPv99-3" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#009999;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;hachureGap=4;pointerEvents=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="240" y="280" width="280" height="280" as="geometry" />
+          <mxGeometry x="240" y="280" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="qfTTODT_Ezw1zGYLPv99-7" value="Workload Account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="270" y="310" width="110" height="20" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-7" value="Resource Descirbe Role" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF5252;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="360" y="408.72" width="40" height="22.56" as="geometry" />
+          <mxGeometry x="300" y="408.72" width="40" height="22.56" as="geometry" />
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;dashed=1;strokeColor=#FF8000;strokeWidth=3;" edge="1" parent="1" source="54PezGfcRXBigFohG_QQ-8" target="54PezGfcRXBigFohG_QQ-11">
           <mxGeometry relative="1" as="geometry">
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-8" value="Resource Descirbe Role" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF5252;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="611.64" y="414" width="40" height="22.56" as="geometry" />
+          <mxGeometry x="620" y="408.72" width="40" height="22.56" as="geometry" />
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;dashed=1;strokeColor=#FF8000;strokeWidth=3;" edge="1" parent="1" source="54PezGfcRXBigFohG_QQ-9" target="54PezGfcRXBigFohG_QQ-11">
           <mxGeometry relative="1" as="geometry">
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-9" value="Resource Descirbe Role" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF5252;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="811.64" y="414" width="40" height="22.56" as="geometry" />
+          <mxGeometry x="820" y="408.72" width="40" height="22.56" as="geometry" />
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;dashed=1;dashPattern=1 2;strokeWidth=3;strokeColor=#3333FF;" edge="1" parent="1" source="54PezGfcRXBigFohG_QQ-10" target="54PezGfcRXBigFohG_QQ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="40" y="420" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-29" value="Create Lambda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="35" y="500" width="100" height="20" as="geometry" />
+          <mxGeometry x="40" y="500" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-30" value="Query Cmdb Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="40" y="585" width="110" height="20" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54PezGfcRXBigFohG_QQ-33" value="Resource Descirbe Role" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF5252;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="711.64" y="670" width="56.73" height="32" as="geometry" />
+          <mxGeometry x="720" y="680" width="40" height="22.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
