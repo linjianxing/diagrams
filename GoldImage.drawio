@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T08:22:36.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="TuOj-CoTRoY3lbMe4uBL" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T08:39:05.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="kXW1alSLOyig304K3lka" version="15.9.6" type="github">
   <diagram id="XoVoHr5pseKWL6vivK5B" name="Page-1">
-    <mxGraphModel dx="1802" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="G337Lv8Ui-S7EembJtlw-24" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Tokyo&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=#3333FF;verticalAlign=top;align=left;spacingLeft=30;fontColor=#FFFFFF;dashed=1;rounded=0;sketch=0;opacity=20;" vertex="1" parent="1">
           <mxGeometry y="440" width="440" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="G337Lv8Ui-S7EembJtlw-26" value="AWS Control Tower" style="fillColor=none;strokeColor=#FFFFFF;verticalAlign=top;fontStyle=0;fontColor=#FFFFFF;rounded=0;sketch=0;fontSize=20;opacity=50;strokeWidth=3;perimeterSpacing=1;" vertex="1" parent="G337Lv8Ui-S7EembJtlw-24">
+        <mxCell id="G337Lv8Ui-S7EembJtlw-26" value="AWS Organization" style="fillColor=none;strokeColor=#FFFFFF;verticalAlign=top;fontStyle=0;fontColor=#FFFFFF;rounded=0;sketch=0;fontSize=20;opacity=50;strokeWidth=3;perimeterSpacing=1;" vertex="1" parent="G337Lv8Ui-S7EembJtlw-24">
           <mxGeometry x="40" y="40" width="800" height="520" as="geometry" />
         </mxCell>
         <mxCell id="G337Lv8Ui-S7EembJtlw-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Oregon&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#FFFFFF;fillColor=#00FF00;verticalAlign=top;align=left;spacingLeft=30;fontColor=#FFFFFF;dashed=1;rounded=0;sketch=0;opacity=20;" vertex="1" parent="1">
