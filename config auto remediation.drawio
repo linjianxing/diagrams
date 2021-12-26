@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T09:52:26.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="J9erIfXyD90akWln1M0o" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-26T09:54:19.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KXjzyEnfbelVzt02w99T" version="16.1.0" type="github">
   <diagram id="wK-yXuyg6ko_bYqxtgu8" name="Page-1">
     <mxGraphModel dx="2820" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="BbLk0o52IuSlc9WZnGBw-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Detection interval：1h&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="80" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BbLk0o52IuSlc9WZnGBw-2" value="After the repair is completed, the status will change to &quot;passed&quot; after the next detection." style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="BbLk0o52IuSlc9WZnGBw-2" value="After the repair is completed, the status of AWS Config Rule will change to &quot;passed&quot; after the next detection." style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-610" y="130" width="170" height="150" as="geometry" />
         </mxCell>
       </root>
